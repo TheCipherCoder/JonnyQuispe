@@ -1,4 +1,12 @@
-#Importante
-1.-Usar java 17 o superior para la edicion de este proyecto
-2.-Usar la version 3.1 para la configuracion del proyecto en la opcion "Dynamic web module version"
-3.-Usar la version del apache tomcat especificado en el repo el cual es al version 8.5.99
+# **Manual de Desarrollo**
+
+## **Requisitos para la configuración del proyecto**
+
+1. **Versión de Java:**
+   - Usar **Java 17** o superior para la edición y ejecución de este proyecto.
+
+2. **Configuración del módulo web:**
+   - Seleccionar la opción **"Dynamic Web Module Version"** con la versión **3.1**.
+
+3. **Servidor de aplicaciones:**
+   - Utilizar la versión de **Apache Tomcat 8.5.99**, especificada en el repositorio del proyecto.
