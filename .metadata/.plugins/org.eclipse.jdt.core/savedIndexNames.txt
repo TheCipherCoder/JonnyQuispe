@@ -3,8 +3,8 @@ INDEX VERSION 1.134+C:\Users\hecto\Desktop\JonnyQuispe-PROYECT\JonnyQuispe\.meta
 1963717437.index
 1272582639.index
 678432244.index
-3570596726.index
 1865797976.index
+3570596726.index
 1865699586.index
 2997459284.index
 1383482829.index
@@ -18,8 +18,8 @@ INDEX VERSION 1.134+C:\Users\hecto\Desktop\JonnyQuispe-PROYECT\JonnyQuispe\.meta
 4028277439.index
 4077114866.index
 3817385049.index
-2718442869.index
 391083468.index
+2718442869.index
 2835596266.index
 2262240624.index
 1766181901.index
